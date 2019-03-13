@@ -1,3 +1,3 @@
 # DS_PadhAI
 PadhAI Contests
-MP Neuron and PErceptron Model
+MP Neuron and Perceptron Model
